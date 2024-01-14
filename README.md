@@ -8,7 +8,9 @@
 
 This capstone project looks at CalGEM production and injection data from 2020 through 2023. The focus is to find out which operators were the top producers of oil, gas, and water and present it in a Tableau dashboard to stakeholders.
 
-#### The CalGEM_Capstone script is performing the following tasks:
+#### Order Of Operations
+
+Note: The CalGEM_Capstone script is performing the following tasks:
 
 - Iterates over the specified years (2020, 2021, 2022, 2023).
 

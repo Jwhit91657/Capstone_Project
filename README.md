@@ -8,7 +8,7 @@
 
 This capstone project looks at CalGEM production and injection data from 2020 through 2023. The focus is to find out which operators were the top producers of oil, gas, and water and present it in a Tableau dashboard to stakeholders.
 
-#### Order Of Operations
+**Order Of Operations:**
 
 Note: The CalGEM_Capstone script is performing the following tasks:
 
@@ -39,7 +39,7 @@ Note: The CalGEM_Capstone script is performing the following tasks:
 
 ### Once the production data was succesfully gathered from the CalGEM website and turned into dataframes I needed to flatten the data before analyzing the data.
 
-#### The Flatten_production_csv script performs the following tasks:
+**The Flatten_production_csv script performs the following tasks:**
 
 - Specifies the paths for the output CSV files: wells_flattened_data.csv, production_flattened_data.csv, and injection_flattened_data.csv.
 
@@ -50,5 +50,4 @@ Note: The CalGEM_Capstone script is performing the following tasks:
 - Reads each CSV file using pandas and appends the data to the corresponding flattened output CSV file.
 
 ### Conclusion
-
-#### Once the production and injection data was flattened it was moved into Sqlite for analysis. The analyzed data was then presented in a Tableau dashboard to stakeholders. You can find the dashboard here https://public.tableau.com/shared/PMZRHQX6F?:display_count=n&:origin=viz_share_link. 
+Once the production and injection data was flattened it was moved into Sqlite for analysis. The analyzed data was then presented in a Tableau dashboard to stakeholders. You can find the dashboard here https://public.tableau.com/shared/PMZRHQX6F?:display_count=n&:origin=viz_share_link. 

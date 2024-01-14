@@ -36,7 +36,7 @@ Note: The CalGEM_Capstone script is performing the following tasks:
 
 - Finally, prints "Download Complete" when all years' data have been processed.
 
-
+##  Details
 Once the production data was succesfully gathered from the CalGEM website and turned into dataframes I needed to flatten the data before analyzing the data.
 
 **The Flatten_production_csv script performs the following tasks:**

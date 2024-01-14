@@ -1,8 +1,12 @@
 # Capstone_Project
 
-## ​​​​​​​​​​​​​​​​​​​​​​​​The California Geologic Energy M​anagement Division (CalGEM) prioritizes protecting public health, safety, and the environment in its oversight of the oil, natural gas, and geothermal industries, while working to help California achieve its climate change and clean energy goals. To do that, CalGEM uses science and sound engineering practices to regulate the drilling, operation, and permanent closure of energy resource wells.
+## Overview
 
-### This capstone project looks at CalGEM production and injection data from 2020 through 2023. The focus is to find out which operators were the top producers of oil, gas, and water and present it in a Tableau dashboard to stakeholders.
+​​​​​​​​​​​​​​​​​​​​​​​​The California Geologic Energy M​anagement Division (CalGEM) prioritizes protecting public health, safety, and the environment in its oversight of the oil, natural gas, and geothermal industries, while working to help California achieve its climate change and clean energy goals. To do that, CalGEM uses science and sound engineering practices to regulate the drilling, operation, and permanent closure of energy resource wells.
+
+### Summary
+
+This capstone project looks at CalGEM production and injection data from 2020 through 2023. The focus is to find out which operators were the top producers of oil, gas, and water and present it in a Tableau dashboard to stakeholders.
 
 #### The CalGEM_Capstone script is performing the following tasks:
 
